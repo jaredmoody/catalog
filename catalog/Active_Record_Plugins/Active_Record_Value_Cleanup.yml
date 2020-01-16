@@ -4,6 +4,7 @@ projects:
   - attribute_normalizer
   - auto_strip_attributes
   - clean_room
+  - normalizr
   - normatron
   - rubiety/nilify_blanks
   - sanitized_attributes
